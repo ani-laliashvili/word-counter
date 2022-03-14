@@ -9,7 +9,7 @@ import java.io.PrintWriter;
 * This class counts the frequency of words in a text document
 * and creates a word cloud html file when prompted. 
 *
-* @author: Ani Laliashvili @author: Hannah Howard */
+* @author: Ani Laliashvili*/
 
 public class WordCounter {
     private WordCountMap wordCountMap;
