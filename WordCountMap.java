@@ -5,7 +5,7 @@ import java.util.List;
 * This class creates a wordCountMap object to be used 
 * for storing words and their frequencies.
 *
-* @author: Ani Laliashvili @author: Hannah Howard */
+* @author: Ani Laliashvili */
 
 public class WordCountMap {
     private Node root;
